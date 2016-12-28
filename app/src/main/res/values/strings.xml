@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cab App</string>
+    <string name="suggested_locations_1">"Suggested Location #1</string>
+    <string name="suggested_locations_2">"Suggested Location #2</string>
+    <string name="suggested_locations_3">"Suggested Location #3</string>
+    <string name="suggested_locations_4">"Suggested Location #4</string>
+</resources>
